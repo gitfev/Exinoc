@@ -45,7 +45,7 @@ You need to specify the API Url and invite url of your bot
 You might also add footer items in configuration
 ```javascript
 const config = {
-    name: "Bot Name",
+    name: "Xinoc",
     footer: [
         {
             name: "Hello World",
@@ -55,7 +55,7 @@ const config = {
     //API url
     serverUrl: "http://localhost:8080",
     //Invite url of your bot
-    inviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1004280473956139038&permissions=8&scope=bot",
+    inviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1064633731421327360&permissions=8&scope=bot",
 }
 ```
 
